@@ -62,8 +62,8 @@ html {
     padding: 20px;
 }
 
-.logo {
-    height: 200px;
+.logo img {
+    height: 150px;
 }
 
 #search {
